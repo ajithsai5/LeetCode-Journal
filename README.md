@@ -15,6 +15,10 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) | Medium | [Python](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py) |
 | 4 | [Median of Two Sorted Arrays](./4-median-of-two-sorted-arrays) | Hard | [Python](./4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.py) |
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring) | Medium | [Python](./5-longest-palindromic-substring/longest-palindromic-substring.py) |
+| 6 | [Zigzag Conversion](./6-zigzag-conversion) | Medium | [Python](./6-zigzag-conversion/zigzag-conversion.py) |
+| 7 | [Reverse Integer](./7-reverse-integer) | Medium | [Python](./7-reverse-integer/reverse-integer.py) |
+
+**Total solved: 7** (1 Easy, 5 Medium, 1 Hard)
 
 ---
 
