@@ -17,8 +17,25 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 5 | [Longest Palindromic Substring](./5-longest-palindromic-substring) | Medium | [Python](./5-longest-palindromic-substring/longest-palindromic-substring.py) |
 | 6 | [Zigzag Conversion](./6-zigzag-conversion) | Medium | [Python](./6-zigzag-conversion/zigzag-conversion.py) |
 | 7 | [Reverse Integer](./7-reverse-integer) | Medium | [Python](./7-reverse-integer/reverse-integer.py) |
+| 8 | [String to Integer (atoi)](./8-string-to-integer-atoi) | Medium | [Python](./8-string-to-integer-atoi/string-to-integer-atoi.py) |
+| 9 | [Palindrome Number](./9-palindrome-number) | Easy | [Python](./9-palindrome-number/palindrome-number.py) |
+| 10 | [Regular Expression Matching](./10-regular-expression-matching) | Hard | [Python](./10-regular-expression-matching/regular-expression-matching.py) |
+| 11 | [Container With Most Water](./11-container-with-most-water) | Medium | [Python](./11-container-with-most-water/container-with-most-water.py) |
 
-**Total solved: 7** (1 Easy, 5 Medium, 1 Hard)
+**Total solved: 11** (2 Easy, 7 Medium, 2 Hard)
+
+---
+
+## Topics Covered
+
+- **Hash Map** – Two Sum
+- **Linked List** – Add Two Numbers
+- **Sliding Window** – Longest Substring Without Repeating Characters
+- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays
+- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching
+- **String Manipulation** – Zigzag Conversion, String to Integer (atoi)
+- **Math** – Reverse Integer, Palindrome Number
+- **Two Pointers** – Container With Most Water
 
 ---
 
