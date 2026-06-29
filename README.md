@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 11** &nbsp;|&nbsp; 2 Easy &nbsp;·&nbsp; 7 Medium &nbsp;·&nbsp; 2 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 17** &nbsp;|&nbsp; 4 Easy &nbsp;·&nbsp; 11 Medium &nbsp;·&nbsp; 2 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -27,19 +27,26 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 9 | [Palindrome Number](./9-palindrome-number) | Easy | Jun 21, 2026 | 3 ms (88.61%) | 19.3 MB (53.27%) | [Python](./9-palindrome-number/palindrome-number.py) |
 | 10 | [Regular Expression Matching](./10-regular-expression-matching) | Hard | Jun 20, 2026 | 6 ms (63.90%) | 19.5 MB (49.43%) | [Python](./10-regular-expression-matching/regular-expression-matching.py) |
 | 11 | [Container With Most Water](./11-container-with-most-water) | Medium | Jun 21, 2026 | 53 ms (78.15%) | 29.6 MB (37.59%) | [Python](./11-container-with-most-water/container-with-most-water.py) |
+| 12 | [Integer to Roman](./12-integer-to-roman) | Medium | Jun 22, 2026 | 7 ms (40.60%) | 19.4 MB (6.57%) | [Python](./12-integer-to-roman/integer-to-roman.py) |
+| 13 | [Roman to Integer](./13-roman-to-integer) | Easy | Jun 23, 2026 | 7 ms (42.36%) | 19.3 MB (57.93%) | [Python](./13-roman-to-integer/roman-to-integer.py) |
+| 14 | [Longest Common Prefix](./14-longest-common-prefix) | Easy | Jun 24, 2026 | 0 ms (100.00%) | 19.2 MB (72.19%) | [Python](./14-longest-common-prefix/longest-common-prefix.py) |
+| 15 | [3Sum](./15-3sum) | Medium | Jun 25, 2026 | 641 ms (54.23%) | 22.3 MB (53.96%) | [Python](./15-3sum/3sum.py) |
+| 16 | [3Sum Closest](./16-3sum-closest) | Medium | Jun 27, 2026 | 381 ms (59.97%) | 19.2 MB (96.03%) | [Python](./16-3sum-closest/3sum-closest.py) |
+| 17 | [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number) | Medium | Jun 28, 2026 | 0 ms (100.00%) | 19.4 MB (39.75%) | [Python](./17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
 
 ---
 
 ## Topics Covered
 
-- **Hash Map** – Two Sum
+- **Hash Map** – Two Sum, Roman to Integer
 - **Linked List** – Add Two Numbers
 - **Sliding Window** – Longest Substring Without Repeating Characters
 - **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays
 - **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching
-- **String Manipulation** – Zigzag Conversion, String to Integer (atoi)
-- **Math** – Reverse Integer, Palindrome Number
-- **Two Pointers** – Container With Most Water
+- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix
+- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman
+- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest
+- **Backtracking** – Letter Combinations of a Phone Number
 
 ---
 
@@ -55,4 +62,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Jun 22, 2026*
+*Last updated: Jun 29, 2026*
