@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 17** &nbsp;|&nbsp; 4 Easy &nbsp;·&nbsp; 11 Medium &nbsp;·&nbsp; 2 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 23** &nbsp;|&nbsp; 6 Easy &nbsp;·&nbsp; 14 Medium &nbsp;·&nbsp; 3 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -33,20 +33,28 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 15 | [3Sum](./15-3sum) | Medium | Jun 25, 2026 | 641 ms (54.23%) | 22.3 MB (53.96%) | [Python](./15-3sum/3sum.py) |
 | 16 | [3Sum Closest](./16-3sum-closest) | Medium | Jun 27, 2026 | 381 ms (59.97%) | 19.2 MB (96.03%) | [Python](./16-3sum-closest/3sum-closest.py) |
 | 17 | [Letter Combinations of a Phone Number](./17-letter-combinations-of-a-phone-number) | Medium | Jun 28, 2026 | 0 ms (100.00%) | 19.4 MB (39.75%) | [Python](./17-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
+| 18 | [4Sum](./18-4sum) | Medium | Jun 29, 2026 | 410 ms (32.29%) | 19.4 MB (21.25%) | [Python](./18-4sum/4sum.py) |
+| 19 | [Remove Nth Node From End of List](./19-remove-nth-node-from-end-of-list) | Medium | Jun 30, 2026 | 0 ms (100.00%) | 19.3 MB (63.47%) | [Python](./19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
+| 20 | [Valid Parentheses](./20-valid-parentheses) | Easy | Jul 01, 2026 | 4 ms (12.23%) | 19.3 MB (65.84%) | [Python](./20-valid-parentheses/valid-parentheses.py) |
+| 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | Easy | Jul 02, 2026 | 0 ms (100.00%) | 19.2 MB (94.38%) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) |
+| 22 | [Generate Parentheses](./22-generate-parentheses) | Medium | Jul 04, 2026 | 0 ms (100.00%) | 19.4 MB (34.07%) | [Python](./22-generate-parentheses/generate-parentheses.py) |
+| 23 | [Merge k Sorted Lists](./23-merge-k-sorted-lists) | Hard | Jul 05, 2026 | 3 ms (99.08%) | 23 MB (28.72%) | [Python](./23-merge-k-sorted-lists/merge-k-sorted-lists.py) |
 
 ---
 
 ## Topics Covered
 
 - **Hash Map** – Two Sum, Roman to Integer
-- **Linked List** – Add Two Numbers
+- **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists
 - **Sliding Window** – Longest Substring Without Repeating Characters
-- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays
+- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists
 - **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching
 - **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix
 - **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman
-- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest
-- **Backtracking** – Letter Combinations of a Phone Number
+- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List
+- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses
+- **Stack** – Valid Parentheses
+- **Heap / Priority Queue** – Merge k Sorted Lists
 
 ---
 
@@ -62,4 +70,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Jun 29, 2026*
+*Last updated: Jul 05, 2026*
