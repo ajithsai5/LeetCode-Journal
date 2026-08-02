@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 23** &nbsp;|&nbsp; 6 Easy &nbsp;·&nbsp; 14 Medium &nbsp;·&nbsp; 3 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 34** &nbsp;|&nbsp; 9 Easy &nbsp;·&nbsp; 19 Medium &nbsp;·&nbsp; 6 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -39,21 +39,32 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 21 | [Merge Two Sorted Lists](./21-merge-two-sorted-lists) | Easy | Jul 02, 2026 | 0 ms (100.00%) | 19.2 MB (94.38%) | [Python](./21-merge-two-sorted-lists/merge-two-sorted-lists.py) |
 | 22 | [Generate Parentheses](./22-generate-parentheses) | Medium | Jul 04, 2026 | 0 ms (100.00%) | 19.4 MB (34.07%) | [Python](./22-generate-parentheses/generate-parentheses.py) |
 | 23 | [Merge k Sorted Lists](./23-merge-k-sorted-lists) | Hard | Jul 05, 2026 | 3 ms (99.08%) | 23 MB (28.72%) | [Python](./23-merge-k-sorted-lists/merge-k-sorted-lists.py) |
+| 24 | [Swap Nodes in Pairs](./24-swap-nodes-in-pairs) | Medium | Jul 18, 2026 | 0 ms (100.00%) | 19.1 MB (98.72%) | [Python](./24-swap-nodes-in-pairs/swap-nodes-in-pairs.py) |
+| 25 | [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group) | Hard | Jul 19, 2026 | 0 ms (100.00%) | 20.4 MB (47.03%) | [Python](./25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.py) |
+| 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy | Jul 22, 2026 | 3 ms (45.14%) | 20.5 MB (42.01%) | [Python](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
+| 28 | [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy | Jul 24, 2026 | 3 ms (18.64%) | 19.3 MB (25.55%) | [Python](./28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.py) |
+| 29 | [Divide Two Integers](./29-divide-two-integers) | Medium | Jul 25, 2026 | 0 ms (100.00%) | 19.2 MB (92.00%) | [Python](./29-divide-two-integers/divide-two-integers.py) |
+| 30 | [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words) | Hard | Jul 26, 2026 | 23 ms (76.34%) | 19.9 MB (38.28%) | [Python](./30-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.py) |
+| 31 | [Next Permutation](./31-next-permutation) | Medium | Jul 28, 2026 | 0 ms (100.00%) | 19.3 MB (65.33%) | [Python](./31-next-permutation/next-permutation.py) |
+| 32 | [Longest Valid Parentheses](./32-longest-valid-parentheses) | Hard | Jul 30, 2026 | 7 ms (90.45%) | 20.8 MB (6.22%) | [Python](./32-longest-valid-parentheses/longest-valid-parentheses.py) |
+| 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium | Jul 31, 2026 | 0 ms (100.00%) | 19.5 MB (10.47%) | [Python](./33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) |
+| 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array) | Medium | Aug 01, 2026 | 0 ms (100.00%) | 20.5 MB (59.24%) | [Python](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
+| 35 | [Search Insert Position](./35-search-insert-position) | Easy | Aug 02, 2026 | 0 ms (100.00%) | 20 MB (43.05%) | [Python](./35-search-insert-position/search-insert-position.py) |
 
 ---
 
 ## Topics Covered
 
 - **Hash Map** – Two Sum, Roman to Integer
-- **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists
-- **Sliding Window** – Longest Substring Without Repeating Characters
-- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists
-- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching
-- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix
-- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman
-- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List
+- **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group
+- **Sliding Window** – Longest Substring Without Repeating Characters, Substring with Concatenation of All Words
+- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position
+- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses
+- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String
+- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers
+- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation
 - **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses
-- **Stack** – Valid Parentheses
+- **Stack** – Valid Parentheses, Longest Valid Parentheses
 - **Heap / Priority Queue** – Merge k Sorted Lists
 
 ---
@@ -70,4 +81,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Jul 05, 2026*
+*Last updated: Aug 02, 2026*
