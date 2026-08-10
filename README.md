@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 34** &nbsp;|&nbsp; 9 Easy &nbsp;·&nbsp; 19 Medium &nbsp;·&nbsp; 6 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 40** &nbsp;|&nbsp; 9 Easy &nbsp;·&nbsp; 22 Medium &nbsp;·&nbsp; 9 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -50,22 +50,29 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 33 | [Search in Rotated Sorted Array](./33-search-in-rotated-sorted-array) | Medium | Jul 31, 2026 | 0 ms (100.00%) | 19.5 MB (10.47%) | [Python](./33-search-in-rotated-sorted-array/search-in-rotated-sorted-array.py) |
 | 34 | [Find First and Last Position of Element in Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array) | Medium | Aug 01, 2026 | 0 ms (100.00%) | 20.5 MB (59.24%) | [Python](./34-find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
 | 35 | [Search Insert Position](./35-search-insert-position) | Easy | Aug 02, 2026 | 0 ms (100.00%) | 20 MB (43.05%) | [Python](./35-search-insert-position/search-insert-position.py) |
+| 36 | [Valid Sudoku](./36-valid-sudoku) | Medium | Aug 03, 2026 | 1 ms (82.80%) | 19.4 MB (9.51%) | [Python](./36-valid-sudoku/valid-sudoku.py) |
+| 37 | [Sudoku Solver](./37-sudoku-solver) | Hard | Aug 04, 2026 | 1149 ms (67.85%) | 19.6 MB (31.18%) | [Python](./37-sudoku-solver/sudoku-solver.py) |
+| 38 | [Count and Say](./38-count-and-say) | Medium | Aug 05, 2026 | 7 ms (71.79%) | 19.3 MB (36.64%) | [Python](./38-count-and-say/count-and-say.py) |
+| 39 | [Combination Sum](./39-combination-sum) | Medium | Aug 06, 2026 | 5 ms (81.35%) | 19.7 MB (32.81%) | [Python](./39-combination-sum/combination-sum.py) |
+| 41 | [First Missing Positive](./41-first-missing-positive) | Hard | Aug 10, 2026 | 55 ms (37.00%) | 30.7 MB (96.13%) | [Python](./41-first-missing-positive/first-missing-positive.py) |
+| 42 | [Trapping Rain Water](./42-trapping-rain-water) | Hard | Aug 10, 2026 | 6 ms (76.45%) | 21 MB (48.32%) | [Python](./42-trapping-rain-water/trapping-rain-water.py) |
 
 ---
 
 ## Topics Covered
 
-- **Hash Map** – Two Sum, Roman to Integer
+- **Hash Map** – Two Sum, Roman to Integer, Valid Sudoku
 - **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group
 - **Sliding Window** – Longest Substring Without Repeating Characters, Substring with Concatenation of All Words
 - **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position
 - **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses
-- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String
+- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String, Count and Say
 - **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers
-- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation
-- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses
+- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation, Trapping Rain Water
+- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses, Sudoku Solver, Combination Sum
 - **Stack** – Valid Parentheses, Longest Valid Parentheses
 - **Heap / Priority Queue** – Merge k Sorted Lists
+- **Array (In-place / Index Marking)** – First Missing Positive
 
 ---
 
@@ -81,4 +88,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Aug 02, 2026*
+*Last updated: Aug 10, 2026*
