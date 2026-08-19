@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 40** &nbsp;|&nbsp; 9 Easy &nbsp;·&nbsp; 22 Medium &nbsp;·&nbsp; 9 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 45** &nbsp;|&nbsp; 9 Easy &nbsp;·&nbsp; 26 Medium &nbsp;·&nbsp; 10 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -56,6 +56,11 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 39 | [Combination Sum](./39-combination-sum) | Medium | Aug 06, 2026 | 5 ms (81.35%) | 19.7 MB (32.81%) | [Python](./39-combination-sum/combination-sum.py) |
 | 41 | [First Missing Positive](./41-first-missing-positive) | Hard | Aug 10, 2026 | 55 ms (37.00%) | 30.7 MB (96.13%) | [Python](./41-first-missing-positive/first-missing-positive.py) |
 | 42 | [Trapping Rain Water](./42-trapping-rain-water) | Hard | Aug 10, 2026 | 6 ms (76.45%) | 21 MB (48.32%) | [Python](./42-trapping-rain-water/trapping-rain-water.py) |
+| 43 | [Multiply Strings](./43-multiply-strings) | Medium | Aug 11, 2026 | 39 ms (48.37%) | 19.3 MB (68.22%) | [Python](./43-multiply-strings/multiply-strings.py) |
+| 44 | [Wildcard Matching](./44-wildcard-matching) | Hard | Aug 12, 2026 | 4 ms (86.48%) | 19.3 MB (86.10%) | [Python](./44-wildcard-matching/wildcard-matching.py) |
+| 45 | [Jump Game II](./45-jump-game-ii) | Medium | Aug 13, 2026 | 6 ms (55.65%) | 19.9 MB (92.88%) | [Python](./45-jump-game-ii/jump-game-ii.py) |
+| 46 | [Permutations](./46-permutations) | Medium | Aug 15, 2026 | 0 ms (100.00%) | 19.5 MB (66.24%) | [Python](./46-permutations/permutations.py) |
+| 47 | [Permutations II](./47-permutations-ii) | Medium | Aug 15, 2026 | 7 ms (39.76%) | 19.9 MB (54.41%) | [Python](./47-permutations-ii/permutations-ii.py) |
 
 ---
 
@@ -67,9 +72,9 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 - **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position
 - **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses
 - **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String, Count and Say
-- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers
-- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation, Trapping Rain Water
-- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses, Sudoku Solver, Combination Sum
+- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers, Multiply Strings, Jump Game II
+- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation, Trapping Rain Water, Wildcard Matching
+- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses, Sudoku Solver, Combination Sum, Permutations, Permutations II
 - **Stack** – Valid Parentheses, Longest Valid Parentheses
 - **Heap / Priority Queue** – Merge k Sorted Lists
 - **Array (In-place / Index Marking)** – First Missing Positive
@@ -88,4 +93,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Aug 10, 2026*
+*Last updated: Aug 17, 2026*
