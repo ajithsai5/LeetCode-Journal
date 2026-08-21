@@ -1,0 +1,45 @@
+class Solution:
+    def totalNQueens(self, n: int) -> int:
+        count = 0
+
+        cols = set()
+        diag1 = set()  # row - col
+        diag2 = set()  # row + col
+
+        def backtrack(row):
+            nonlocal count
+
+            # All queens successfully placed
+            if row == n:
+                count += 1
+                return
+
+            for col in range(n):
+
+                # Check column
+                if col in cols:
+                    continue
+
+                # Check diagonals
+                if row - col in diag1:
+                    continue
+
+                if row + col in diag2:
+                    continue
+
+                # Place queen
+                cols.add(col)
+                diag1.add(row - col)
+                diag2.add(row + col)
+
+                # Next row
+                backtrack(row + 1)
+
+                # Backtrack
+                cols.remove(col)
+                diag1.remove(row - col)
+                diag2.remove(row + col)
+
+        backtrack(0)
+
+        return count
