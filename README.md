@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 45** &nbsp;|&nbsp; 9 Easy &nbsp;·&nbsp; 26 Medium &nbsp;·&nbsp; 10 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 59** &nbsp;|&nbsp; 10 Easy &nbsp;·&nbsp; 36 Medium &nbsp;·&nbsp; 13 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -54,6 +54,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 37 | [Sudoku Solver](./37-sudoku-solver) | Hard | Aug 04, 2026 | 1149 ms (67.85%) | 19.6 MB (31.18%) | [Python](./37-sudoku-solver/sudoku-solver.py) |
 | 38 | [Count and Say](./38-count-and-say) | Medium | Aug 05, 2026 | 7 ms (71.79%) | 19.3 MB (36.64%) | [Python](./38-count-and-say/count-and-say.py) |
 | 39 | [Combination Sum](./39-combination-sum) | Medium | Aug 06, 2026 | 5 ms (81.35%) | 19.7 MB (32.81%) | [Python](./39-combination-sum/combination-sum.py) |
+| 40 | [Combination Sum II](./40-combination-sum-ii) | Medium | Aug 23, 2026 | 4 ms (67.83%) | 19.4 MB (74.38%) | [Python](./40-combination-sum-ii/combination-sum-ii.py) |
 | 41 | [First Missing Positive](./41-first-missing-positive) | Hard | Aug 10, 2026 | 55 ms (37.00%) | 30.7 MB (96.13%) | [Python](./41-first-missing-positive/first-missing-positive.py) |
 | 42 | [Trapping Rain Water](./42-trapping-rain-water) | Hard | Aug 10, 2026 | 6 ms (76.45%) | 21 MB (48.32%) | [Python](./42-trapping-rain-water/trapping-rain-water.py) |
 | 43 | [Multiply Strings](./43-multiply-strings) | Medium | Aug 11, 2026 | 39 ms (48.37%) | 19.3 MB (68.22%) | [Python](./43-multiply-strings/multiply-strings.py) |
@@ -61,23 +62,38 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 45 | [Jump Game II](./45-jump-game-ii) | Medium | Aug 13, 2026 | 6 ms (55.65%) | 19.9 MB (92.88%) | [Python](./45-jump-game-ii/jump-game-ii.py) |
 | 46 | [Permutations](./46-permutations) | Medium | Aug 15, 2026 | 0 ms (100.00%) | 19.5 MB (66.24%) | [Python](./46-permutations/permutations.py) |
 | 47 | [Permutations II](./47-permutations-ii) | Medium | Aug 15, 2026 | 7 ms (39.76%) | 19.9 MB (54.41%) | [Python](./47-permutations-ii/permutations-ii.py) |
+| 48 | [Rotate Image](./48-rotate-image) | Medium | Aug 17, 2026 | 0 ms (100.00%) | 19.3 MB (28.30%) | [Python](./48-rotate-image/rotate-image.py) |
+| 49 | [Group Anagrams](./49-group-anagrams) | Medium | Aug 18, 2026 | 7 ms (98.33%) | 22 MB (64.11%) | [Python](./49-group-anagrams/group-anagrams.py) |
+| 50 | [Pow(x, n)](./50-powx-n) | Medium | Aug 19, 2026 | 0 ms (100.00%) | 19.4 MB (86.74%) | [Python](./50-powx-n/powx-n.py) |
+| 51 | [N-Queens](./51-n-queens) | Hard | Aug 20, 2026 | 8 ms (81.35%) | 19.9 MB (10.12%) | [Python](./51-n-queens/n-queens.py) |
+| 52 | [N-Queens II](./52-n-queens-ii) | Hard | Aug 21, 2026 | 8 ms (59.31%) | 19.3 MB (84.47%) | [Python](./52-n-queens-ii/n-queens-ii.py) |
+| 53 | [Maximum Subarray](./53-maximum-subarray) | Medium | Aug 21, 2026 | 48 ms (18.51%) | 31.4 MB (74.01%) | [Python](./53-maximum-subarray/maximum-subarray.py) |
+| 54 | [Spiral Matrix](./54-spiral-matrix) | Medium | Aug 21, 2026 | 0 ms (100.00%) | 19.2 MB (73.28%) | [Python](./54-spiral-matrix/spiral-matrix.py) |
+| 55 | [Jump Game](./55-jump-game) | Medium | Aug 22, 2026 | 19 ms (60.68%) | 20.2 MB (84.84%) | [Python](./55-jump-game/jump-game.py) |
+| 56 | [Merge Intervals](./56-merge-intervals) | Medium | Aug 22, 2026 | 11 ms (24.79%) | 23.1 MB (28.24%) | [Python](./56-merge-intervals/merge-intervals.py) |
+| 57 | [Insert Interval](./57-insert-interval) | Medium | Aug 22, 2026 | 2 ms (34.66%) | 21.4 MB (26.88%) | [Python](./57-insert-interval/insert-interval.py) |
+| 58 | [Length of Last Word](./58-length-of-last-word) | Easy | Aug 23, 2026 | 0 ms (100.00%) | 19.1 MB (87.47%) | [Python](./58-length-of-last-word/length-of-last-word.py) |
+| 59 | [Spiral Matrix II](./59-spiral-matrix-ii) | Medium | Aug 23, 2026 | 0 ms (100.00%) | 19.3 MB (43.04%) | [Python](./59-spiral-matrix-ii/spiral-matrix-ii.py) |
+| 60 | [Permutation Sequence](./60-permutation-sequence) | Hard | Aug 23, 2026 | 0 ms (100.00%) | 19.2 MB (88.51%) | [Python](./60-permutation-sequence/permutation-sequence.py) |
 
 ---
 
 ## Topics Covered
 
-- **Hash Map** – Two Sum, Roman to Integer, Valid Sudoku
+- **Hash Map** – Two Sum, Roman to Integer, Valid Sudoku, Group Anagrams
 - **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group
 - **Sliding Window** – Longest Substring Without Repeating Characters, Substring with Concatenation of All Words
-- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position
-- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses
-- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String, Count and Say
-- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers, Multiply Strings, Jump Game II
+- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position, Pow(x, n)
+- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses, Maximum Subarray
+- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String, Count and Say, Length of Last Word
+- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers, Multiply Strings, Jump Game II, Jump Game, Permutation Sequence
 - **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation, Trapping Rain Water, Wildcard Matching
-- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses, Sudoku Solver, Combination Sum, Permutations, Permutations II
+- **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses, Sudoku Solver, Combination Sum, Combination Sum II, Permutations, Permutations II, N-Queens, N-Queens II
 - **Stack** – Valid Parentheses, Longest Valid Parentheses
 - **Heap / Priority Queue** – Merge k Sorted Lists
 - **Array (In-place / Index Marking)** – First Missing Positive
+- **Matrix** – Rotate Image, Spiral Matrix, Spiral Matrix II
+- **Intervals** – Merge Intervals, Insert Interval
 
 ---
 
@@ -93,4 +109,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Aug 17, 2026*
+*Last updated: Aug 24, 2026*
