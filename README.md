@@ -8,7 +8,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ## Progress
 
-**Total solved: 59** &nbsp;|&nbsp; 10 Easy &nbsp;·&nbsp; 36 Medium &nbsp;·&nbsp; 13 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
+**Total solved: 70** &nbsp;|&nbsp; 15 Easy &nbsp;·&nbsp; 40 Medium &nbsp;·&nbsp; 15 Hard &nbsp;|&nbsp; Streak started: Jun 13, 2026
 
 ---
 
@@ -42,6 +42,7 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 24 | [Swap Nodes in Pairs](./24-swap-nodes-in-pairs) | Medium | Jul 18, 2026 | 0 ms (100.00%) | 19.1 MB (98.72%) | [Python](./24-swap-nodes-in-pairs/swap-nodes-in-pairs.py) |
 | 25 | [Reverse Nodes in k-Group](./25-reverse-nodes-in-k-group) | Hard | Jul 19, 2026 | 0 ms (100.00%) | 20.4 MB (47.03%) | [Python](./25-reverse-nodes-in-k-group/reverse-nodes-in-k-group.py) |
 | 26 | [Remove Duplicates from Sorted Array](./26-remove-duplicates-from-sorted-array) | Easy | Jul 22, 2026 | 3 ms (45.14%) | 20.5 MB (42.01%) | [Python](./26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
+| 27 | [Remove Element](./27-remove-element) | Easy | Aug 24, 2026 | 0 ms (100.00%) | 19.3 MB (57.53%) | [Python](./27-remove-element/remove-element.py) |
 | 28 | [Find the Index of the First Occurrence in a String](./28-find-the-index-of-the-first-occurrence-in-a-string) | Easy | Jul 24, 2026 | 3 ms (18.64%) | 19.3 MB (25.55%) | [Python](./28-find-the-index-of-the-first-occurrence-in-a-string/find-the-index-of-the-first-occurrence-in-a-string.py) |
 | 29 | [Divide Two Integers](./29-divide-two-integers) | Medium | Jul 25, 2026 | 0 ms (100.00%) | 19.2 MB (92.00%) | [Python](./29-divide-two-integers/divide-two-integers.py) |
 | 30 | [Substring with Concatenation of All Words](./30-substring-with-concatenation-of-all-words) | Hard | Jul 26, 2026 | 23 ms (76.34%) | 19.9 MB (38.28%) | [Python](./30-substring-with-concatenation-of-all-words/substring-with-concatenation-of-all-words.py) |
@@ -75,19 +76,29 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 | 58 | [Length of Last Word](./58-length-of-last-word) | Easy | Aug 23, 2026 | 0 ms (100.00%) | 19.1 MB (87.47%) | [Python](./58-length-of-last-word/length-of-last-word.py) |
 | 59 | [Spiral Matrix II](./59-spiral-matrix-ii) | Medium | Aug 23, 2026 | 0 ms (100.00%) | 19.3 MB (43.04%) | [Python](./59-spiral-matrix-ii/spiral-matrix-ii.py) |
 | 60 | [Permutation Sequence](./60-permutation-sequence) | Hard | Aug 23, 2026 | 0 ms (100.00%) | 19.2 MB (88.51%) | [Python](./60-permutation-sequence/permutation-sequence.py) |
+| 61 | [Rotate List](./61-rotate-list) | Medium | Aug 24, 2026 | 0 ms (100.00%) | 19.2 MB (77.11%) | [Python](./61-rotate-list/rotate-list.py) |
+| 62 | [Unique Paths](./62-unique-paths) | Medium | Aug 24, 2026 | 0 ms (100.00%) | 19.2 MB (75.15%) | [Python](./62-unique-paths/unique-paths.py) |
+| 63 | [Unique Paths II](./63-unique-paths-ii) | Medium | Aug 27, 2026 | 0 ms (100.00%) | 19.5 MB (16.76%) | [Python](./63-unique-paths-ii/unique-paths-ii.py) |
+| 64 | [Minimum Path Sum](./64-minimum-path-sum) | Medium | Aug 27, 2026 | 5 ms (96.00%) | 20.2 MB (99.85%) | [Python](./64-minimum-path-sum/minimum-path-sum.py) |
+| 65 | [Valid Number](./65-valid-number) | Hard | Aug 27, 2026 | 0 ms (100.00%) | 19.4 MB (10.66%) | [Python](./65-valid-number/valid-number.py) |
+| 66 | [Plus One](./66-plus-one) | Easy | Aug 30, 2026 | 0 ms (100.00%) | 19.4 MB (18.81%) | [Python](./66-plus-one/plus-one.py) |
+| 67 | [Add Binary](./67-add-binary) | Easy | Aug 30, 2026 | 2 ms (48.54%) | 19.4 MB (51.41%) | [Python](./67-add-binary/add-binary.py) |
+| 68 | [Text Justification](./68-text-justification) | Hard | Aug 30, 2026 | 0 ms (100.00%) | 19.4 MB (52.48%) | [Python](./68-text-justification/text-justification.py) |
+| 69 | [Sqrt(x)](./69-sqrtx) | Easy | Aug 30, 2026 | 3 ms (69.35%) | 19.3 MB (56.94%) | [Python](./69-sqrtx/sqrtx.py) |
+| 70 | [Climbing Stairs](./70-climbing-stairs) | Easy | Aug 30, 2026 | 0 ms (100.00%) | 19.2 MB (53.11%) | [Python](./70-climbing-stairs/climbing-stairs.py) |
 
 ---
 
 ## Topics Covered
 
 - **Hash Map** – Two Sum, Roman to Integer, Valid Sudoku, Group Anagrams
-- **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group
+- **Linked List** – Add Two Numbers, Remove Nth Node From End of List, Merge Two Sorted Lists, Merge k Sorted Lists, Swap Nodes in Pairs, Reverse Nodes in k-Group, Rotate List
 - **Sliding Window** – Longest Substring Without Repeating Characters, Substring with Concatenation of All Words
-- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position, Pow(x, n)
-- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses, Maximum Subarray
-- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String, Count and Say, Length of Last Word
-- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers, Multiply Strings, Jump Game II, Jump Game, Permutation Sequence
-- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Next Permutation, Trapping Rain Water, Wildcard Matching
+- **Binary Search / Divide & Conquer** – Median of Two Sorted Arrays, Merge k Sorted Lists, Search in Rotated Sorted Array, Find First and Last Position of Element in Sorted Array, Search Insert Position, Pow(x, n), Sqrt(x)
+- **Dynamic Programming** – Longest Palindromic Substring, Regular Expression Matching, Longest Valid Parentheses, Maximum Subarray, Unique Paths, Unique Paths II, Minimum Path Sum, Climbing Stairs
+- **String Manipulation** – Zigzag Conversion, String to Integer (atoi), Longest Common Prefix, Find the Index of the First Occurrence in a String, Count and Say, Length of Last Word, Valid Number, Text Justification
+- **Math / Greedy** – Reverse Integer, Palindrome Number, Integer to Roman, Divide Two Integers, Multiply Strings, Jump Game II, Jump Game, Permutation Sequence, Plus One, Add Binary
+- **Two Pointers** – Container With Most Water, 3Sum, 3Sum Closest, 4Sum, Remove Nth Node From End of List, Remove Duplicates from Sorted Array, Remove Element, Next Permutation, Trapping Rain Water, Wildcard Matching
 - **Backtracking** – Letter Combinations of a Phone Number, Generate Parentheses, Sudoku Solver, Combination Sum, Combination Sum II, Permutations, Permutations II, N-Queens, N-Queens II
 - **Stack** – Valid Parentheses, Longest Valid Parentheses
 - **Heap / Priority Queue** – Merge k Sorted Lists
@@ -109,4 +120,4 @@ A personal log of LeetCode problem-solving practice. Each problem lives in its o
 
 ---
 
-*Last updated: Aug 24, 2026*
+*Last updated: Aug 31, 2026*
